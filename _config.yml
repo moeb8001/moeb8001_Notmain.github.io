@@ -3,3 +3,11 @@ title: Mohammad Kian Ebrahimi
 #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+#######
+nav:
+  - title: Home
+    url: '/'
+  - title: Projects
+    url: '/projects/'
+
