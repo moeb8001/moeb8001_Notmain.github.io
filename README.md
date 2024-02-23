@@ -3,6 +3,12 @@
 ## Introduction
 Hello! I'm Mohammad, a senior year BSc Aerospace Engineering student at Delft University of Technology, Netherlands. Born on November 7, 2001, I've always been passionate about engineering from complex systems to basic insrtruments. I aim to leverage my diverse skills in engineering to make impactful contributions.
 
+My life and academic journey have been fueled by a deep passion for
+engineering, with a special focus on the boundless realm of making things seemingly impossible into reality.
+I hope to eventually be able to contribute my skills and enthusiasm to
+innovative **meaningfull** projects that redefine the possibilities within different engineering fields and be part of something bigger than
+myself.
+
 ## Contact Information
 - **Email:** M.Ebrahimi-3@student.tudelft.nl
 - **LinkedIn:** [linkedin.com/in/MEbrahimi2001](https://linkedin.com/in/MEbrahimi2001)
